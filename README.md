@@ -1,5 +1,5 @@
 # CONCORNET2023 (Corrosion Damage on Concrete Structures Image Dataset) 🧑‍🏫
-## Description: 👍
+## Description: 📝
 This repository stores an image dataset about corrosion damage on concrete structures.
 
 ## Dataset Title: 👌
@@ -34,5 +34,5 @@ The repository contains a directory named Images, which contains the corrosion i
 
 Also, this repository stores a file named best.pt, which contains the computed weights using the YOLOv3 framework (ultralytics/yolov3) by the authors. The retrieved weights are parameters related with the employment of CONCORNET2023.  
 
-## Definition of acronyms: 👍
+## Definition of acronyms: ✨
 CONCORNET2023: Concrete Corrosion Network 2023
