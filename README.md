@@ -7,11 +7,15 @@ Conccorrnet2023: Corroded concrete Image dataset for machine learning and deep l
 
 ### Researchers
 José A. Guzmán-Torres
+
 Francisco J. Domínguez-Mota
+
 Gerardo Tinoco-Guerrero
 
 Universidad Michoacana de San Nicolás de Hidalgo, Faculty of Civil Engineering
+
 jose.alberto.guzman@umich.mx
+
 https://orcid.org/0000-0002-9309-9390
 
 Project summary, description or abstract:
