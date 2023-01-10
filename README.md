@@ -1,5 +1,5 @@
 # CONCORNET2023 (Corrosion Damage on Concrete Structures Image Dataset) 🧑‍🏫
-!                    [](Corrosion_detection.png)
+![](Corrosion_detection.png)
 ## Description: 📝
 This repository stores an image dataset about corrosion damage on concrete structures.
 
