@@ -8,19 +8,19 @@ This repository stores an image dataset about corrosion damage on concrete struc
 CONCORNET2023: Corroded concrete Image dataset for machine learning and deep learning applications.
 
 ## Researchers 🧑‍🔬
-José A. Guzmán-Torres
-
-Francisco J. Domínguez-Mota
-
-Gerardo Tinoco-Guerrero
-
-Universidad Michoacana de San Nicolás de Hidalgo, Faculty of Civil Engineering
-
-AULA-CIMNE, Morelia
-
-jose.alberto.guzman@umich.mx
-
+- *Dr. José A. Guzmán-Torres* <br />
+jose.alberto.guzman@umich.mx <br />
 https://orcid.org/0000-0002-9309-9390
+
+- *Dr. Francisco J. Domínguez-Mota* <br />
+francisco.mota@umich.mx <br />
+https://orcid.org/0000-0001-6837-172X
+- *Dr. Gerardo Tinoco-Guerrero* <br />
+gerardo.tinoco@umich.mx <br />
+https://orcid.org/0000-0003-3119-770X
+
+Universidad Michoacana de San Nicolás de Hidalgo, Faculty of Civil Engineering <br />
+AULA-CIMNE, Morelia
 
 ## Project summary, description or abstract: 📚
 CONCORNET2023 is a labeled image dataset for training, testing, validation, and benchmarking of artificial intelligence-based corrosion detection algorithms for concrete structures.
