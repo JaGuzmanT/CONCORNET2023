@@ -41,7 +41,7 @@ CONCORNET2023: Concrete Corrosion Network 2023.
 
 ## Please cite the following paper if you use this dataset in your research:
 
-@article{doi: [working...](https://doi.org/10.3389/fbuil.2023.1144606), <br />
+@article{doi: https://doi.org/10.3389/fbuil.2023.1144606, <br />
 author = {}, <br />
 title = {}, <br />
 journal = {}, <br />
