@@ -48,8 +48,8 @@ journal = {}, <br />
 volume = {}, <br />
 number = {}, <br />
 pages = {}, <br />
-year = {}, <br />
-doi = {}, <br />
-URL = {}, <br />
+year = {2023}, <br />
+doi = {https://doi.org/10.3389/fbuil.2023.1144606}, <br />
+URL = {https://www.frontiersin.org/articles/10.3389/fbuil.2023.1144606/full}, <br />
 eprint = {}, <br />
 }
