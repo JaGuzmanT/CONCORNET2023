@@ -38,3 +38,18 @@ Also, this repository stores a file named best.pt, which contains the computed w
 
 ## Definition of acronyms: ✨
 CONCORNET2023: Concrete Corrosion Network 2023.
+
+## Please cite the following paper if you use this dataset in your research:
+
+@article{doi: working..., <br />
+author = {}, <br />
+title = {}, <br />
+journal = {}, <br />
+volume = {}, <br />
+number = {}, <br />
+pages = {}, <br />
+year = {}, <br />
+doi = {}, <br />
+URL = {}, <br />
+eprint = {}, <br />
+}
