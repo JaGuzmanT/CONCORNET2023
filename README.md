@@ -42,7 +42,7 @@ CONCORNET2023: Concrete Corrosion Network 2023.
 ## Please cite the following paper if you use this dataset in your research:
 
 @article{guzman2023damage, <br />
-author = {Guzmán-Torres, José A and Domínnguez-Mota, Francisco J and Martínez-Molina, Wilfrido and Naser, MZ and Tinoco-Guerrero, Gerardo and Tinoco-Ruíz, José G}, <br />
+author = {Guzmán-Torres, José A and Domínguez-Mota, Francisco J and Martínez-Molina, Wilfrido and Naser, MZ and Tinoco-Guerrero, Gerardo and Tinoco-Ruíz, José G}, <br />
 title = {Damage Detection on Steel-Reinforced Concrete Produced by Corrosion via YOLOv3; A detailed guide}, <br />
 journal = {Frontiers in Built Environment}, <br />
 volume = {9}, <br />
