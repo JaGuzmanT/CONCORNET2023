@@ -41,14 +41,14 @@ CONCORNET2023: Concrete Corrosion Network 2023.
 
 ## Please cite the following paper if you use this dataset in your research:
 
-@article{doi: https://doi.org/10.3389/fbuil.2023.1144606, <br />
-author = {}, <br />
-title = {}, <br />
-journal = {}, <br />
-volume = {}, <br />
-number = {}, <br />
-pages = {}, <br />
+@article{guzman2023damage, <br />
+author = {Guzm{\'a}n-Torres, Jos{\'e} A and Dom{\'\i}nguez-Mota, Francisco J and Mart{\'\i}nez-Molina, Wilfrido and Naser, MZ and Tinoco-Guerrero, Gerardo and Tinoco-Ru{\'\i}z, Jos{\'e} G}, <br />
+title = {Damage Detection on Steel-Reinforced Concrete Produced by Corrosion via YOLOv3; A detailed guide}, <br />
+journal = {Frontiers in Built Environment}, <br />
+volume = {9}, <br />
+pages = {41}, <br />
 year = {2023}, <br />
+publisher={Frontiers} <br />
 doi = {https://doi.org/10.3389/fbuil.2023.1144606}, <br />
 URL = {https://www.frontiersin.org/articles/10.3389/fbuil.2023.1144606/full}, <br />
 eprint = {}, <br />
