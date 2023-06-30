@@ -23,13 +23,13 @@ Universidad Michoacana de San Nicolás de Hidalgo, Faculty of Civil Engineering 
 AULA-CIMNE, Morelia
 
 ## Project summary, description or abstract: 📚
-CONCORNET2023 is a labeled image dataset for training, testing, validation, and benchmarking of artificial intelligence-based corrosion detection algorithms for concrete structures.
+CONCORNET2023 is a labeled image dataset for training, testing, validating, and benchmarking artificial intelligence-based corrosion detection algorithms for concrete structures.
 
-CONCORNET2023 contains 790 photographs of concrete structures with signs of corrosion problems. The photos are related to various concrete structures such as columns, beams, slabs, and others.
+CONCORNET2023 contains 790 photographs of concrete structures with signs of corrosion problems. The photos relate to various concrete structures such as columns, beams, slabs, etc.
 
-The dataset includes different levels of corrosion damage and photographs with a variety of perturbations, including channel shift, horizontal flip, horizontal shift, random rotation, and random zoom.
+The dataset includes different corrosion damage levels and photographs with various perturbations, including channel shift, horizontal flip, horizontal shift, random rotation, and random zoom.
 
-CONCORNET2023 will come in handy for the continued development of concrete corrosion detection tasks on algorithms based on deep learning, which is a field that is gaining momentum in Civil Engineering applications. 
+CONCORNET2023 will come in handy for the continued development of concrete corrosion detection tasks on algorithms based on deep learning, a field gaining momentum in Civil Engineering applications. 
 
 ## Description of files: ✍️
 The repository contains a directory named Images, which contains the corrosion images on concrete structures in three sub-directories, train (632), test(79), and val (79). All the images are two-dimensional color images with .jpg extension.
