@@ -31,10 +31,10 @@ AULA-CIMNE, Morelia
 
 <p align="justify"> CONCORNET2023 will come in handy for the continued development of concrete corrosion detection tasks on algorithms based on deep learning, a field gaining momentum in Civil Engineering applications. </p>
 
-## Description of files: ✍️
-The repository contains a directory named Images, which contains the corrosion images on concrete structures in three sub-directories, train (632), test(79), and val (79). All the images are two-dimensional color images with .jpg extension.
+## Files description: ✍️
+<p align="justify"> The repository contains a directory named Images, which contains the corrosion images on concrete structures in three sub-directories, train (632), test(79), and val (79). All the images are two-dimensional color images with .jpg extension. </p>
 
-Also, this repository stores a file named best.pt, which contains the computed weights using the YOLOv3 framework (ultralytics/yolov3) by the authors. The retrieved weights are parameters related to the employment of CONCORNET2023.  
+ <p align="justify"> Also, this repository stores a file named best.pt, which contains the computed weights using the YOLOv3 framework (ultralytics/yolov3) by the authors. The retrieved weights are parameters related to the employment of CONCORNET2023. </p>
 
 ## Definition of acronyms: ✨
 CONCORNET2023: Concrete Corrosion Network 2023.
