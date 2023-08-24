@@ -23,13 +23,13 @@ Universidad Michoacana de San Nicolás de Hidalgo, Faculty of Civil Engineering 
 AULA-CIMNE, Morelia
 
 ## Project summary, description or abstract: 📚
-CONCORNET2023 is a labeled image dataset for training, testing, validating, and benchmarking artificial intelligence-based corrosion detection algorithms for concrete structures.
+<p align="justify"> CONCORNET2023 is a labeled image dataset for training, testing, validating, and benchmarking artificial intelligence-based corrosion detection algorithms for concrete structures. </p>
 
-CONCORNET2023 contains 790 photographs of concrete structures with signs of corrosion problems. The photos relate to various concrete structures such as columns, beams, slabs, etc.
+<p align="justify"> CONCORNET2023 contains 790 photographs of concrete structures with signs of corrosion problems. The photos relate to various concrete structures such as columns, beams, slabs, etc. </p>
 
-The dataset includes different corrosion damage levels and photographs with various perturbations, including channel shift, horizontal flip, horizontal shift, random rotation, and random zoom.
+<p align="justify"> The dataset includes different corrosion damage levels and photographs with various perturbations, including channel shift, horizontal flip, horizontal shift, random rotation, and random zoom.</p>
 
-CONCORNET2023 will come in handy for the continued development of concrete corrosion detection tasks on algorithms based on deep learning, a field gaining momentum in Civil Engineering applications. 
+<p align="justify"> CONCORNET2023 will come in handy for the continued development of concrete corrosion detection tasks on algorithms based on deep learning, a field gaining momentum in Civil Engineering applications. </p>
 
 ## Description of files: ✍️
 The repository contains a directory named Images, which contains the corrosion images on concrete structures in three sub-directories, train (632), test(79), and val (79). All the images are two-dimensional color images with .jpg extension.
