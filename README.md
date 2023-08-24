@@ -50,6 +50,6 @@ volume = {9}, <br />
 pages = {41}, <br />
 year = {2023}, <br />
 publisher={Frontiers} <br />
-doi = {10.3389/fbuil.2023.1144606}, <br />
+doi = {http://dx.doi.org/10.3389/fbuil.2023.1144606 }, <br />
 URL = {https://www.frontiersin.org/articles/10.3389/fbuil.2023.1144606/full }, <br />
 }
